@@ -1,0 +1,57 @@
+
+
+
+#image{
+    border: solid yellowgreen;
+    border-radius: 92px;
+    float: left;
+    width: 300px; 
+    height: 350px;
+    padding: 10px;
+    margin: 10px;
+}
+.all{
+    background-color: aquamarine;
+
+}
+#skill{
+
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 250px;
+    padding-top: 27px;
+   padding-left: 180px;
+  
+    
+}
+#Soft{
+
+    font-size:20px;
+    font-style: italic;
+    margin: 1px 20px;
+    padding: 2px;
+    margin-left:320px;
+}
+#hard{
+
+    font-size: 20px;
+    font-style: italic;
+    margin: 10px 20px;
+    padding: 1px;
+    width: 400px;
+    float: left;
+    font-style: italic;
+    
+
+    
+}
+
+#project{
+
+ font-size: 35px;
+ font-family: 'Courier New', Courier, monospace;
+ font-weight: lighter;
+ background-color: rgb(221, 221, 161);
+ 
+
+}
